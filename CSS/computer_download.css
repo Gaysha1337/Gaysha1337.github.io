@@ -1,0 +1,12 @@
+
+h1 header  {
+  color: deeppink;
+  font-family: hotline-miami;
+  text-align: center;
+}
+.navbar {
+  background-color: purple!important;
+}
+.expanded-nav {
+  background-color: purple;
+}

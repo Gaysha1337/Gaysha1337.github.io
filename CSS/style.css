@@ -1,0 +1,42 @@
+* {
+  text-align: center;
+}
+body{
+  background: url(../Static_Files/cyberpunk_background_png.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 header  {
+  color: deeppink;
+  font-family: hotline-miami;
+}
+.navbar {
+  background-color: purple!important;
+}
+.expanded-nav {
+  background-color: purple;
+}
+div > span {
+  color: purple!important;
+  text-align: center; 
+}
+.game-desc-text{
+  margin-bottom: 0px;
+  font-size: -webkit-xxx-large;
+  text-shadow: 2px 2px lawngreen;
+}
+
+#game-description {
+  margin-top: 30px;
+}
+@font-face {
+  font-family: hotline-miami;
+  font-weight: bold;
+  src: url(../UI/Fonts/Hotline Miami/justicegrad.ttf);
+  
+}
+
+
+
