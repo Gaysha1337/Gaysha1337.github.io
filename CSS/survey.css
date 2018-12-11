@@ -1,0 +1,31 @@
+body{
+  background: url(../Static_Files/cyberpunk_background_png.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: auto;
+}
+
+h2 {
+  color: deeppink!important;
+  font-family: hotline-miami;
+  text-align: center;
+}
+h1 header  {
+  color: deeppink;
+  font-family: hotline-miami;
+  text-align: center;
+}
+.navbar {
+  background-color: purple!important;
+}
+.expanded-nav {
+  background-color: purple;
+  text-align: center;
+}
+
+#survey_iframe{
+  display: block;
+  margin: auto;
+}
