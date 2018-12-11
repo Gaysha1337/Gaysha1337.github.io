@@ -24,14 +24,16 @@ div > span {
 }
 .game-desc-text{
   margin-bottom: 0px;
-  font-size: -webkit-xxx-large!important;
-  font-size: xx-large;
+  /*font-size: -webkit-xxx-large!important;
+  font-size: xx-large;*/
+  font-size: 4em;
   text-shadow: 2px 2px lawngreen;
 }
 
 #game-description {
   margin-top: 30px;
 }
+
 #github-link{
   bottom: 0;
   width: 100%;
@@ -39,12 +41,23 @@ div > span {
   margin: auto;
   left: 0;
 }
-
 @font-face {
   font-family: hotline-miami;
   font-weight: bold;
   src: url(../UI/Fonts/Hotline Miami/justicegrad.ttf);
-  
+}
+
+.download-links{
+  color: black!important;
+  font-size: x-large;
+}
+
+#challenge-link{
+  color: inherit;
+}
+
+#challenge-link:hover{
+  color: deeppink;
 }
 
 

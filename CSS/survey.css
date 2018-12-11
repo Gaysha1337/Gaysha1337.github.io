@@ -29,3 +29,8 @@ h1 header  {
   display: block;
   margin: auto;
 }
+
+.download-links{
+  color: black!important;
+  font-size: x-large;
+}
