@@ -11,3 +11,8 @@ h1 header  {
   background-color: purple;
   text-align: center;
 }
+
+.download-links{
+  color: black!important;
+  font-size: x-large;
+}
