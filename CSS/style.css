@@ -24,13 +24,22 @@ div > span {
 }
 .game-desc-text{
   margin-bottom: 0px;
-  font-size: -webkit-xxx-large;
+  font-size: -webkit-xxx-large!important;
+  font-size: xx-large;
   text-shadow: 2px 2px lawngreen;
 }
 
 #game-description {
   margin-top: 30px;
 }
+#github-link{
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  margin: auto;
+  left: 0;
+}
+
 @font-face {
   font-family: hotline-miami;
   font-weight: bold;
